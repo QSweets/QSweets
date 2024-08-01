@@ -3,7 +3,7 @@
 ### Hello world, I'm Daiyon!
 
 🧑‍💻 Software Engineer sharing where I've started to see how far I'll have come!<br/>
-🧑‍🎓 Studied Computer Science online via;<br/> 
+🧑‍🎓 Studied Computer Science via;<br/> 
   - [Tech Elevator](https://www.techelevator.com/) <br/>
   - [Codecademy](https://www.codecademy.com/) <br/>
   - [Youtube](https://www.youtube.com/) <br/>
