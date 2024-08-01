@@ -29,5 +29,5 @@
 [![](https://visitcount.itsvg.in/api?id=Qsweets&icon=8&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/Fuzziewompkins) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/Fuzziewompkins) 
   
